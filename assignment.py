@@ -8,6 +8,7 @@ while valid:
       while i<=x:
         print(i , end=" ")
         i = i+1
+     print(" ")   
      
     else:
         valid = False
